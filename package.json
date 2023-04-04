@@ -1,0 +1,28 @@
+{
+  "name": "crowdfunding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geetikajhanji11/crowdfunding-dapp.git"
+  },
+  "author": "Geetika Jhanji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/geetikajhanji11/crowdfunding-dapp/issues"
+  },
+  "homepage": "https://github.com/geetikajhanji11/crowdfunding-dapp",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.2",
+    "hardhat": "^2.8.3"
+  },
+  "dependencies": {}
+}
